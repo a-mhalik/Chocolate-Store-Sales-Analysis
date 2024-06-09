@@ -40,4 +40,9 @@ Based on the analysis, key recommendations include:
 ## Next Steps
 Implementing these recommendations and continuously monitoring performance will ensure sustained success. Stakeholders are encouraged to leverage these insights to drive growth, enhance efficiency, and maximize profitability.
 
-### Feel free to explore the repository and contribute to our ongoing efforts to enhance sales performance. Your feedback and collaboration are invaluable in our journey towards continued success.
+## FILES IN THIS REPOSITORY
+1.An Excel Workbook showcasing the Analysis made and Visualized data.
+
+2.A written report on the Analysis done in the workbook.
+
+3.All the datasets used for the analysis.
